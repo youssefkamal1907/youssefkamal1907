@@ -54,13 +54,3 @@ I combine front-end engineering with software testing to deliver systems that ar
 
 
 ---
-
-## 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=youssefkamal1907&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
