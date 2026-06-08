@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Youssef Kamal</h1>
-<h3 align="center">Software Engineering Student | Backend Developer</h3>
+<h1 align="center">I'm Youssef Kamal</h1>
+<h3 align="center">Software Engineering Student | Angular Web Developer</h3>
 
 <p align="center">
   <a href="mailto:youssef.kamal940@gmail.com">
@@ -16,16 +16,14 @@
 
 - 🎓 Faculty of Computer Science & AI
 - 💡 Major: Software Engineering
-- 🌱 Currently learning Backend Development
-- 🚀 Building projects with Node.js & Express
+- 🌱 Currently learning Frontend Development
 - 📚 Strong foundation in Data Structures & OOP
-- 🏪 Founder of Stickerio
 
 <br>
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
