@@ -10,11 +10,9 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 👨‍💻 About Me
 
-I’m Mohammed Raafat, a passionate Software Developer who focuses on building clean interfaces, scalable systems, and thoroughly tested applications.
+I’m إYoussef Kamal, a passionate Software Developer who focuses on building clean interfaces, scalable systems, and thoroughly tested applications.
 I combine front-end engineering with software testing to deliver systems that are fast, reliable, and maintainable.
 <br>
 
