@@ -14,11 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Faculty of Computer Science & AI
-- 💡 Major: Software Engineering
-- 🌱 Currently learning Frontend Development
-- 📚 Strong foundation in Data Structures & OOP
-
+I’m Mohammed Raafat, a passionate Software Developer who focuses on building clean interfaces, scalable systems, and thoroughly tested applications.
+I combine front-end engineering with software testing to deliver systems that are fast, reliable, and maintainable.
 <br>
 
 ## 🛠️ Tech Stack
