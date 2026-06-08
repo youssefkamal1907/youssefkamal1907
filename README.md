@@ -39,34 +39,19 @@ I combine front-end engineering with software testing to deliver systems that ar
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssefkamal1907&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefkamal1907&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefkamal1907&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=youssefkamal1907&theme=tokyonight&row=1&column=6" />
-</p>
+### 🟦 **Web Developer Trainee — Digital Egypt Pioneers (DEPI)**  
+- **Built** **10+ web applications** using React, TypeScript & modern UI principles.  
+- **Improved** **page speed by 30%** through performance optimization and accessibility fixes.  
+- **Completed** **3+ freelance projects**, achieving **95% client satisfaction**.  
+- **Boosted** proposal acceptance rates by **25%** through UI/UX improvements & client communication mastery.
 
 ---
 
 ## 🚀 Featured Project
 
-### Stickerio
-A sticker-selling business and brand built to provide unique and creative sticker designs.
+
 
 ---
 
