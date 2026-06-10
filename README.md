@@ -5,9 +5,6 @@
   <a href="mailto:youssef.kamal940@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/youssefkamal1907">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ## 👨‍💻 About Me
@@ -53,5 +50,6 @@ experience in full-stack web development.
 ### *Finance Tracker Website | HTML, CSS, JavaScript, TypeScript, Angular**
 https://finance-traacker.netlify.app/
 
-
+### *Easy Task Module (Task Management Application) | HTML, CSS, JavaScript, TypeScript, Angular **
+https://easy-task-module.netlify.app/
 ---
