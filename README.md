@@ -40,17 +40,18 @@ I combine front-end engineering with software testing to deliver systems that ar
 ---
 
 ## 💼 Experience
-
-### 🟦 **Web Developer Trainee — Digital Egypt Pioneers (DEPI)**  
-- **Built** **10+ web applications** using React, TypeScript & modern UI principles.  
-- **Improved** **page speed by 30%** through performance optimization and accessibility fixes.  
-- **Completed** **3+ freelance projects**, achieving **95% client satisfaction**.  
-- **Boosted** proposal acceptance rates by **25%** through UI/UX improvements & client communication mastery.
+### 🟦 *MEAN Stack Web Development Training – NTI & ITIDA**                                            
+Jul 2025 – Aug 2025 
+- Completed an intensive 120-hour training program covering Advanced JavaScript, Node.js, Express.js, 
+MongoDB, TypeScript, and AngularJS, along with professional development skills including CV building, 
+LinkedIn optimization, freelancing, and remote work readiness. Achieved 99% score with hands-on project 
+experience in full-stack web development. 
 
 ---
 
 ## 🚀 Featured Project
-
+### *Finance Tracker Website | HTML, CSS, JavaScript, TypeScript, Angular**
+https://finance-traacker.netlify.app/
 
 
 ---
