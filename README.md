@@ -50,6 +50,7 @@ experience in full-stack web development.
 ### *Finance Tracker Website | HTML, CSS, JavaScript, TypeScript, Angular**
 https://finance-traacker.netlify.app/
 
-### *Easy Task Module (Task Management Application) | HTML, CSS, JavaScript, TypeScript, Angular **
+### *Easy Task Module (Task Management Application) | HTML, CSS, JavaScript, TypeScript, Angular**
 https://easy-task-module.netlify.app/
+
 ---
